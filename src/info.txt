@@ -1,1 +1,17 @@
 https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/
+
+
+InsertNumericElementToArrayFinfindPosition.java
+Zwróci '1', czyli umieści między 1 a 3, czyli licząc od zera jest to drugie miejsce, czyli wspomniane '1' 😊 Za dokumentacją, jeśli będzie więcej niż 1 takie pasujące miejsce, to nie ma pewności, które zwróci!
+tylda jest niezbędna! Be niej zwraca '-2'
+To zwraca tylko pozycję, gdzie może być dodane. Nie dodaje tam liczby!
+
+
+WrapperClassVsDatatype.java
+Zwróci:
+True
+False
+True
+True
+True
+False
