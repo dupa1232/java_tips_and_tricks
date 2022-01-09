@@ -15,3 +15,13 @@ True
 True
 True
 False
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+FastMultiplicationOrDivisionBy2.java
+https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/
+2) Fast Multiplication or Division by 2 / Mnożenie lub dzielenie przez 2
+Multiplying by 2 means shifting all the bits to left and dividing by 2 means shifting to the right.
+Example: 2 (Binary 10): shifting left 4 (Binary 100) and right 1 (Binary 1)
+n = n << 1; // Multiply n with 2
+n = n >> 1; // Divide n by 2
